@@ -1,0 +1,8 @@
+.courses{
+    
+    background-color: rgb(255, 0, 191);
+    text-align: center;}
+    .course
+    { display: inline-block;
+    width: 20%;
+    background-color: rgb(183, 226, 43);} 
